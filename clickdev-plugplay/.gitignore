@@ -1,0 +1,21 @@
+# Godot generated files — DO NOT commit
+.godot/
+*.uid
+*.import
+export_presets.cfg
+project.godot
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+build/
+export/
